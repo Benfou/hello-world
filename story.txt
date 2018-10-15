@@ -1,0 +1,7 @@
+class Main{
+
+  static void main(args[]){
+  
+  Sysytem.out.println("I am an unusefull story");
+  }
+}
